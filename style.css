@@ -22,7 +22,15 @@ pre {
 	background-color: #f1f1f1;
 	padding: 20px;
 }
-
+header{
+	display:flex;
+	flex-direction: column;
+	margin-top: 40px;
+}
+header img{
+	width: 200px;
+	height: 250px;
+}
 h1,
 h2 {
 	padding: 20px 0;
